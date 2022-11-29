@@ -17,6 +17,9 @@ Welcome to {{ project }}'s documentation!
     :caption: Table of Contents:
     :hidden:
 
+    home <self>
+
+
 
 Source Code
 =========================
